@@ -1,12 +1,11 @@
-# declare and initialize variables
 script=donut.py
+script2=blender.py
 wdir=`pwd`
-hdir=/opt/hfs18.5
+hdir="C:\Program Files\Side Effects Software\Houdini 18.5.449"
 
-# source houdini environment
-cd $hdir
+
+cd "$hdir"
 source houdini_setup > /dev/null 2>&1
 
-# execute script
-cd $wdir
+cd "$wdir"
 hython $script
