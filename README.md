@@ -26,7 +26,7 @@ the current machine:
 
 ### The evaluation citeria
 
-Validation happens through a Tensorflow model that was trained on 500 scraped [donut images][scraped donut images]. The ouput of the render is either `yes` or `no`. 
+Validation happens through a Tensorflow model that was trained on 500 scraped [donut images][scraped donut images]. The ouput of the render results in either `yes` or `no`. 
 
 Is this a donut yet?    
 # `no`
