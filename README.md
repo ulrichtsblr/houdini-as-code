@@ -1,10 +1,10 @@
-# **Creating a donut in less than 10 seconds**
+## **Creating a donut in less than 10 seconds**
 
 <br>
 
 ### The hype
 
-following the current [donut tutorial][donut] hype, we decided to follow up, and try to make a donut in the shortest time possible.
+Following the current [donut tutorial][donut] hype, we decided to follow up, and try to make a donut in the shortest time possible.
 
 ### The people
 
@@ -12,16 +12,16 @@ A developer who want to learn Houdini & an architect who wants to learn how to p
 
 ### The workflow
 
-We will be using [Linux][Linux] with [Side FX Houdini][Houdini], [Python][Python] & [shell script][Shell script]
+We will be using [Linux][Linux] with [Side FX Houdini][Houdini], [VScode][Vscode], [Python][Python] & [Shell script][Shell script]. Not at any point will we alter the setup through the Houdini UI.
 
 ### The status quo
 
-the current render  ![][donut current render]
+The current render  ![][donut current render]
 
-the current time:    
+The current time:    
 `5 sec`
 
-the current machine:    
+The current machine:    
 `intel i7` , `rtx 2060`, `16GB ram`
 
 ### The evaluation citeria
@@ -32,7 +32,7 @@ Is this a donut yet?
 # `no`
 
 
-
+[Vscode]: https://code.visualstudio.com/
 [scraped donut images]: https://www.google.com/search?q=3d+donut+tutorial+blenderguru&tbm=isch&ved=2ahUKEwiGjrzdr8nvAhXU5LsIHczjBdgQ2-cCegQIABAA&oq=3d+donut+tutorial+blenderguru&gs_lcp=CgNpbWcQA1AAWABgzbQBaABwAHgAgAEAiAEAkgEAmAEAqgELZ3dzLXdpei1pbWc&sclient=img&ei=7mtbYIbfOtTJ7_UPzMeXwA0&bih=784&biw=1261&safe=active
 [Linux]: https://www.linux.org/
 [Houdini]: https://www.sidefx.com/
