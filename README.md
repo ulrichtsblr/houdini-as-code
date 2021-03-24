@@ -24,7 +24,14 @@ the current machine:
 `rtx 2060`  
 `16GB ram`
 
+## The evaluation citeria
 
+Validation happens through a Tensorflow model that was trained on 500 scraped [donut images][scraped donut images]. The ouput of the render is either `yes` or `no`. (wip)
+
+Is this a donut yet?    
+`no`
+
+[scraped donut images]: https://www.google.com/search?q=3d+donut+tutorial+blenderguru&tbm=isch&ved=2ahUKEwiGjrzdr8nvAhXU5LsIHczjBdgQ2-cCegQIABAA&oq=3d+donut+tutorial+blenderguru&gs_lcp=CgNpbWcQA1AAWABgzbQBaABwAHgAgAEAiAEAkgEAmAEAqgELZ3dzLXdpei1pbWc&sclient=img&ei=7mtbYIbfOtTJ7_UPzMeXwA0&bih=784&biw=1261&safe=active
 [Linux]: https://www.linux.org/
 [Houdini]: https://www.sidefx.com/
 [Python]: https://www.python.org/
