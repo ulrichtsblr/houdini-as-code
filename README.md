@@ -4,19 +4,13 @@
 
 following the current [donut tutorial][donut] hype, we decided to follow up, and try to make a donut in the shortest time possible.
 
-<br>
-
 ## The people
 
 A developer who want to learn Houdini & an architect who want to learn how to program python.
 
-<br>
-
 ## The workflow
 
 We will be using [Linux][Linux] with [Side FX Houdini][Houdini], [Python][Python] & [shell script][Shell script]
-
-<br>
 
 ## The status quo
 
@@ -29,7 +23,8 @@ the current machine:
 `intel i7`  
 `rtx 2060`  
 `16GB ram`
-> 
+
+
 [Linux]: https://www.linux.org/
 [Houdini]: https://www.sidefx.com/
 [Python]: https://www.python.org/
