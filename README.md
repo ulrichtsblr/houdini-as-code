@@ -1,18 +1,20 @@
-# **Creating a donut in <= 10 seconds**
+# **Creating a donut in less than 10 seconds**
 
-## The hype
+<br>
+
+### The hype
 
 following the current [donut tutorial][donut] hype, we decided to follow up, and try to make a donut in the shortest time possible.
 
-## The people
+### The people
 
-A developer who want to learn Houdini & an architect who want to learn how to program python.
+A developer who want to learn Houdini & an architect who wants to learn how to program python.
 
-## The workflow
+### The workflow
 
 We will be using [Linux][Linux] with [Side FX Houdini][Houdini], [Python][Python] & [shell script][Shell script]
 
-## The status quo
+### The status quo
 
 the current render  ![][donut current render]
 
@@ -20,23 +22,21 @@ the current time:
 `5 sec`
 
 the current machine:    
-`intel i7`  
-`rtx 2060`  
-`16GB ram`
+`intel i7` , `rtx 2060`, `16GB ram`
 
-## The evaluation citeria
+### The evaluation citeria
 
-Validation happens through a Tensorflow model that was trained on 500 scraped [donut images][scraped donut images]. The ouput of the render is either `yes` or `no`. (wip)
+Validation happens through a Tensorflow model that was trained on 500 scraped [donut images][scraped donut images]. The ouput of the render is either `yes` or `no`. 
 
 Is this a donut yet?    
-`no`
+# `no`
+
+
 
 [scraped donut images]: https://www.google.com/search?q=3d+donut+tutorial+blenderguru&tbm=isch&ved=2ahUKEwiGjrzdr8nvAhXU5LsIHczjBdgQ2-cCegQIABAA&oq=3d+donut+tutorial+blenderguru&gs_lcp=CgNpbWcQA1AAWABgzbQBaABwAHgAgAEAiAEAkgEAmAEAqgELZ3dzLXdpei1pbWc&sclient=img&ei=7mtbYIbfOtTJ7_UPzMeXwA0&bih=784&biw=1261&safe=active
 [Linux]: https://www.linux.org/
 [Houdini]: https://www.sidefx.com/
 [Python]: https://www.python.org/
 [Shell script]: https://www.shellscript.sh/
-
 [donut]: https://www.google.com/search?q=donut+tutorial+blender&safe=active&sxsrf=ALeKk03gwyEqkmRATzMAF9rpeET1k-E3Kg%3A1616601499643&ei=m2FbYLfYJpDCkwXv4oqQDg&oq=donut+tutorial+blender&gs_lcp=Cgdnd3Mtd2l6EAMyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46BwgjELADECc6BwgAEEcQsAM6BAgjECc6CAgAEBYQChAeUJ4pWL0vYMcwaAFwAngAgAFjiAHcBJIBATmYAQCgAQGqAQdnd3Mtd2l6yAEJwAEB&sclient=gws-wiz&ved=0ahUKEwj3kYTxpcnvAhUQ4aQKHW-xAuIQ4dUDCA0&uact=5
-
 [donut current render]: https://github.com/baudhaus/houdini-as-code/blob/master/render.png
