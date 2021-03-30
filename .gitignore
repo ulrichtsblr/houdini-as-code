@@ -1,0 +1,7 @@
+*.sh
+!launchpad.sh
+*.png
+!media/*.png
+scenes/*.hipnc
+!scenes/seed.hipnc
+*.pyc
