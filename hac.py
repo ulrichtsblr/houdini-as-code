@@ -4,7 +4,7 @@ import os
 class Node:
 
 
-    def __init__(self, node="camera"):
+    def __init__(self, node):
         if node == "camera":
             self.node = (
                 hou.node("/obj")
